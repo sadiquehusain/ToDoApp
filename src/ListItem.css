@@ -1,0 +1,16 @@
+.list {
+  color: gold;
+  width: 300px;
+  background-color: indigo;
+  height: 50px;
+  margin: 20px auto;
+  border-radius: 5px;
+}
+.list p {
+  padding: 10px;
+}
+.delete {
+  background-color: springgreen;
+  padding-left: 10px;
+  margin-left: 140px;
+}

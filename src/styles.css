@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: cornflowerblue;
+}
+.todoapp {
+  background-color: darkgreen;
+  height: 480px;
+  width: 360px;
+  margin: 50px auto;
+}
+#to_do input {
+  height: 40px;
+  width: 300px;
+  background-color: deeppink;
+  text-align: center;
+  align-items: center;
+  color: black;
+  font-size: 30px;
+  padding: 0 2px;
+}
+#to_do button {
+  height: 50px;
+  width: 50px;
+}
